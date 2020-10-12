@@ -165,9 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Dipankar Pal - dipankarpal5050@gmail.com
 
 
 
@@ -200,4 +198,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align=center><img align=center src="https://raw.githubusercontent.com/liyasthomas/templates/master/assets/logo.gif" alt="unicorn" width="400">
 </p>
 <p align=center>Happy Coding</p>
+  
+<p align=center><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.Mr.Dclutterer" alt="Visitors">  </p>
+
 </div>
