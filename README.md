@@ -1,10 +1,7 @@
+![godfather](https://socialify.git.ci/deep5050/godfather/image?description=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/deep5050/godfather">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">PROJECT NAME</h3>
 
