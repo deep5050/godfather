@@ -1,12 +1,12 @@
 ![godfather](https://socialify.git.ci/deep5050/godfather/image?description=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 <p align="center">
-
+<img src=https://stars.medv.io/deep5050/radio-active.svg align=center>
 
   <h3 align="center">PROJECT NAME</h3>
 
   <p align="center">
-    Detailed description about this project
+    Detailed description of this project
   <br/>
 
 <br />
